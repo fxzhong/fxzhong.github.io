@@ -22,7 +22,7 @@ I am an assistant professor of [School of Science Engineering](https://sse.cuhk.
 
 My research interest includes robot autonomy in surgical applications, medical robotics, intelligent motion planning and control, learning-driven 3D perception, etc.
 
-I am currently looking for prospective PhDs. If you are self-motivated to conduct world-leading robotics research with us in motion planning and control, robot system design, AI-enabled sensing and actuation, feel free to contact me via [email](mailto:fxzhong@cuhk.edu.cn) and drop your CV, thanks! :sparkles: :smile:
+I am currently looking for prospective MPhil and PhD students. If you are self-motivated to conduct research in medical robotics regarding motion planning and control, human-robot interaction, AI-enabled 3D sensing and actuation, feel free to contact me via [email](mailto:fxzhong@cuhk.edu.cn) and drop your CV, thanks! :sparkles: :smile:
 
 [comment]: <> Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 [comment]: <>  Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
