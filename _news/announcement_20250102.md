@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 I am teaching `CSC1006 Artificial Intelligence for Science and Engineering` in AY24-25 Term 2 at CUHK(SZ). 
-This is a newly proposed course in School of Science Engineering for freshmen undergraduate students, with capacity of 300, building an interesting bridge for basic understanding to learn basis of AI and its application in this world. 
+This is a newly proposed compulsory course served by School of Science Engineering for freshmen undergraduate students, with capacity of 300, building an interesting bridge for basic understanding of AI and its application in this world. 
