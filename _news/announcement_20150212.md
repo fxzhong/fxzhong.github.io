@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One corresponding-author paper "Efficient Underwater Object Detection With Enhanced Feature Extraction and Fusion" is accepted by `IEEE Transactions on Industrial Informatics`, congratulations to my student Shaoming!
+Our journal paper "Efficient Underwater Object Detection With Enhanced Feature Extraction and Fusion" has been accepted by `IEEE Transactions on Industrial Informatics`, congratulations to my student Shaoming!
