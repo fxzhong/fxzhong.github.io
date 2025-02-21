@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "6-DoF Shape Servoing of Deformable Objects in Co-Rotated Space of Modal Graph" has been accepted by `ICRA 2025`.
+Our paper "6-DoF Shape Servoing of Deformable Objects in Co-Rotated Space of Modal Graph" has been accepted by `IEEE ICRA 2025`.
