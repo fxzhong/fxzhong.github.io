@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My co-authored paper "Smooth Surface-to-Surface Contact Control for Rope-Base Soft-tip Manipulator" has been accepted by IEEE Transactions on Automation Science Engineering!
+My co-authored paper "Smooth Surface-to-Surface Contact Control for Rope-Base Soft-tip Manipulator" has been accepted by `IEEE Transactions on Automation Science Engineering`!
