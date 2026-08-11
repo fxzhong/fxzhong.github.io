@@ -2,16 +2,22 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses I have involved and have been teaching.
+description: Courses I have been teaching.
 nav: true
 nav_order: 6
 ---
 
-CUHK(SZ)\
+CUHK(SZ) - Postgraduate Course\
 \
-2024-2025 AY Term 1: ECE3060 Introduction to Robotics (Instructor)\
+2027(Expected) AY Term 3: AIS5001 Practical AI in Industry (Instructor)\
+2026-now AY Term 1: AIR5058 Embodied Artificial Intelligence (Instructor)\
 \
-CUHK\
+CUHK(SZ) - Undergraduate Course\
+\
+2025-now AY Term 2: CSC1006 Artificial Intelligence for Science and Engineering (Instructor)\
+2024-now AY Term 1: ECE3060 Introduction to Robotics (Instructor)\
+\
+CUHK - Teaching Assistant\
 \
 2019-2020 AY Term 1: MAEG5755 Robotics (TA)\
 2018-2019 AY Term 1: MAEG5755 Robotics (TA)\
