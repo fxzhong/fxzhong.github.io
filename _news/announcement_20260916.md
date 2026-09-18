@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our journal paper (corresponding authorship) "A Hybrid RCM-Based Robotic System for Ultrasound-Guided Transperineal Prostate Biopsy: Design, Control, and Evaluation" has been accepted by `IEEE Transactions on Biomedical Engineering`.
+Our journal paper (corresponding authorship) "A Hybrid RCM-Based Robotic System for Ultrasound-Guided Transperineal Prostate Biopsy: Design, Control, and Evaluation" has been accepted by `IEEE Transactions on Medical Robotics and Bionics`.
